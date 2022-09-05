@@ -1,9 +1,6 @@
 C#
 Java
 Ruby
-<<<<<<< HEAD
 Python
 VB
-=======
-python
->>>>>>> 8b2838c7b210bc12c96b10155ddad488ef7bd2bb
+
